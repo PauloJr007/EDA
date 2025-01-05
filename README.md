@@ -1,4 +1,4 @@
-#EDA
+# ANALISE EXPLORATÓRIA (EDA)
 
 Analise "Geral" de um Shopping fictício.
 
