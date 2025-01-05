@@ -1,3 +1,5 @@
+#EDA
+
 Analise "Geral" de um Shopping fictício.
 
 O projeto consiste em uma Análise de Dados sobre um Shopping.
