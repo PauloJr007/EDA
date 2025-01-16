@@ -2,7 +2,7 @@
 
 Analise "Geral" de um Shopping fictício.
 
-O projeto consiste em uma Análise de Dados sobre um Shopping.
+O projeto consiste em uma Análise Exploratória sobre um Shopping.
 
 O DataSet usado vem de um site que fornece dados públicos (kaggle.com), e pode ser encontrado na pasta junto com o código usado (pasta: analise).
 
